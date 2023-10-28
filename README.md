@@ -43,6 +43,8 @@ This script automates the conversion of `.m4a` audio files to `.mp4` format, whi
      ```powershell
      Set-ExecutionPolicy RemoteSigned
      cd "$env:USERPROFILE\OneDrive\Desktop"
+     Or
+     cd "$env:USERPROFILE\\Desktop"
      .\FFMpeg-Batch-Convert-Windows.ps1
      ```
 
@@ -64,11 +66,5 @@ If you want to show your appreciation, you can donate via [Buy Me a Coffee](http
 - Website: [blog.lalatendu.info](https://blog.lalatendu.info/)
 
 **This script is provided as-is and may require modifications or updates based on your specific environment and requirements. Use it at your own risk. The authors of the script are not liable for any damages or issues caused by its usage.**
-
-### Additional Resources
-
-- For more details or troubleshooting, refer to the [FFmpeg documentation](https://www.ffmpeg.org/documentation.html).
-- Refer to the official [Windows PATH documentation](https://www.architectryan.com/2018/08/31/how-to-change-environment-variables-on-windows-10/) for additional information on managing system PATH variables in Windows.
-```
 
 This README.md file includes the guide for FFmpeg installation on Windows, as requested. You can create or update the README.md file in your GitHub repository with this content.
