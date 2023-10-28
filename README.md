@@ -66,5 +66,3 @@ If you want to show your appreciation, you can donate via [Buy Me a Coffee](http
 - Website: [blog.lalatendu.info](https://blog.lalatendu.info/)
 
 **This script is provided as-is and may require modifications or updates based on your specific environment and requirements. Use it at your own risk. The authors of the script are not liable for any damages or issues caused by its usage.**
-
-This README.md file includes the guide for FFmpeg installation on Windows, as requested. You can create or update the README.md file in your GitHub repository with this content.
