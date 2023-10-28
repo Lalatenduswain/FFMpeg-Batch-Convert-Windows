@@ -45,7 +45,3 @@ If you want to show your appreciation, you can donate via [Buy Me a Coffee](http
 
 **This script is provided as-is and may require modifications or updates based on your specific environment and requirements. Use it at your own risk. The authors of the script are not liable for any damages or issues caused by its usage.**
 ```
-
-Please replace `https://github.com/username/repository.git` with the actual URL of your GitHub repository.
-
-This README.md file includes a basic structure for your GitHub repository, covering the usage instructions, prerequisites, and disclaimers. Feel free to further customize it to fit the specifics of your script or repository.
